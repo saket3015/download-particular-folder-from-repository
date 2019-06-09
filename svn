@@ -1,1 +1,10 @@
-whatsapp me 9454747245
+
+Get the repo URL. First, copy the URL of the Github repo to your clipboard. github repo URL example
+
+Modify the URL for subversion. I want to download the folder at /docs from the master branch, so I will append trunk/docs. Full URL is now https://github.com/lodash/lodash/trunk/docs. See my note below for a more in-depth explanation of why we must use this URL format.
+
+Download the folder. Go to the command line and grab the folder with SVN.  
+svn checkout https://github.com/lodash/lodash/trunk/docs
+
+
+for query whatsapp me 9454747245
